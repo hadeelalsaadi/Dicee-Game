@@ -1,0 +1,29 @@
+.container{
+    width:80%;
+    text-align: center;
+   margin: auto;
+   color: #98e21d;
+}
+.cookie-regular {
+    font-family: "Cookie", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1{
+    font-size:150px;
+  }
+  h2{
+    font-size: 100px;;
+  }
+  .players{
+    display:inline-block;
+    margin: 30px;
+  }
+  body{
+    background-color: #639c93;
+  }
+
+footer{
+    text-align: center;
+    color: wheat;
+}
